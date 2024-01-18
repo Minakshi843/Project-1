@@ -1,0 +1,23 @@
+h1{
+    color:rgb(111, 111, 230);
+    font-size: larger;
+    text-decoration: solid;    
+}
+
+body{
+    background-color: aqua;
+}
+button{
+    background-color: blueviolet;
+    color: beige;
+}
+#heading2 
+{
+    color: blue;
+    text-shadow: 0cqb;
+}    
+
+.heading{
+    background-color: rgb(233, 231, 231);
+    text-decoration: line-through;
+} 
